@@ -1,0 +1,83 @@
+# papers:  23965
+# authors:  6850
+Top 10 Frequent Journals:
+Nature 689
+British Medical Journal 592
+The Lancet 424
+Contemporary Medicine 422
+Reactions Weekly 241
+science 231
+Journal of Clinical Nursing 204
+Methods in Enzymology 204
+Scientific American 173
+American Journal of The Medical Sciences 156
+
+ Trial number  1 / 5
+# authors explored:  6822  | # total authors:  6850
+# of deadends:  35514  | # of p_accept < 1:  842
+Rank 1 : Lotfi A. Zadeh | # of visits:  98
+Rank 2 : Richard A. Mladick | # of visits:  53
+Rank 3 : Walter Olk | # of visits:  54
+Rank 4 : Heinrich Bartelheimer | # of visits:  51
+Rank 5 : Norman Delanty | # of visits:  50
+Rank 6 : Günter Steinorth | # of visits:  50
+Rank 7 : Richard Griggs | # of visits:  35
+Rank 8 : Carl J Vaughan | # of visits:  37
+Rank 9 : Tracie Stewart | # of visits:  33
+Rank 10 : Adam Bristol | # of visits:  28
+
+ Trial number  2 / 5
+# authors explored:  6819  | # total authors:  6850
+# of deadends:  35723  | # of p_accept < 1:  730
+Rank 1 : Lotfi A. Zadeh | # of visits:  113
+Rank 2 : Richard A. Mladick | # of visits:  51
+Rank 3 : Alan H Lockwood | # of visits:  37
+Rank 4 : Norman Delanty | # of visits:  37
+Rank 5 : Richard Griggs | # of visits:  32
+Rank 6 : Carl J Vaughan | # of visits:  34
+Rank 7 : Heinrich Bartelheimer | # of visits:  29
+Rank 8 : Walter Olk | # of visits:  35
+Rank 9 : Catherine McBride-Chang | # of visits:  29
+Rank 10 : Günter Steinorth | # of visits:  35
+
+ Trial number  3 / 5
+# authors explored:  6822  | # total authors:  6850
+# of deadends:  35600  | # of p_accept < 1:  801
+Rank 1 : Lotfi A. Zadeh | # of visits:  88
+Rank 2 : Heinrich Bartelheimer | # of visits:  49
+Rank 3 : Richard A. Mladick | # of visits:  47
+Rank 4 : Walter Olk | # of visits:  40
+Rank 5 : Günter Steinorth | # of visits:  41
+Rank 6 : Edward Smith | # of visits:  36
+Rank 7 : Norman Delanty | # of visits:  37
+Rank 8 : Carl J Vaughan | # of visits:  37
+Rank 9 : Mitchell S. Cappell | # of visits:  33
+Rank 10 : Tracie Stewart | # of visits:  30
+
+ Trial number  4 / 5
+# authors explored:  6820  | # total authors:  6850
+# of deadends:  35757  | # of p_accept < 1:  761
+Rank 1 : Lotfi A. Zadeh | # of visits:  108
+Rank 2 : Richard A. Mladick | # of visits:  53
+Rank 3 : Carl J Vaughan | # of visits:  50
+Rank 4 : Walter Olk | # of visits:  40
+Rank 5 : Günter Steinorth | # of visits:  38
+Rank 6 : Norman Delanty | # of visits:  35
+Rank 7 : Cynthia Koenig | # of visits:  39
+Rank 8 : William McIntosh | # of visits:  30
+Rank 9 : David Dodd | # of visits:  31
+Rank 10 : Jennifer Gillis | # of visits:  35
+
+ Trial number  5 / 5
+# authors explored:  6814  | # total authors:  6850
+# of deadends:  35566  | # of p_accept < 1:  797
+Rank 1 : Lotfi A. Zadeh | # of visits:  106
+Rank 2 : Heinrich Bartelheimer | # of visits:  62
+Rank 3 : Richard A. Mladick | # of visits:  50
+Rank 4 : Günter Steinorth | # of visits:  53
+Rank 5 : Norman Delanty | # of visits:  42
+Rank 6 : C. D. Fernald | # of visits:  42
+Rank 7 : Carl J Vaughan | # of visits:  37
+Rank 8 : Tracie Stewart | # of visits:  32
+Rank 9 : Walter Olk | # of visits:  35
+Rank 10 : Cynthia Koenig | # of visits:  36

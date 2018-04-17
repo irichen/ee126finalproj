@@ -1,0 +1,83 @@
+# papers:  26061
+# authors:  13671
+Top 10 Frequent Journals:
+Nature 710
+The Lancet 561
+British Medical Journal 552
+science 210
+Journal of the Franklin Institute 137
+Psyccritiques 137
+Astronomische Nachrichten 135
+Lancet (London, England) 123
+American Journal of The Medical Sciences 112
+British medical journal 107
+
+ Trial number  1 / 5
+# authors explored:  12847  | # total authors:  13671
+# of deadends:  37005  | # of p_accept < 1:  420
+Rank 1 : Jakob Meisenheimer | # of visits:  30
+Rank 2 : Andrew Strominger | # of visits:  33
+Rank 3 : Dieter Seebach | # of visits:  23
+Rank 4 : Raul Ramos | # of visits:  20
+Rank 5 : Michael J. Fischer | # of visits:  18
+Rank 6 : G Booch | # of visits:  20
+Rank 7 : R. Robert Tyson | # of visits:  19
+Rank 8 : William Schuessler | # of visits:  19
+Rank 9 : U. Leonhardt | # of visits:  17
+Rank 10 : Arkadii G. D'yachkov | # of visits:  21
+
+ Trial number  2 / 5
+# authors explored:  12850  | # total authors:  13671
+# of deadends:  36967  | # of p_accept < 1:  427
+Rank 1 : Andrew Strominger | # of visits:  33
+Rank 2 : Dieter Seebach | # of visits:  31
+Rank 3 : Jakob Meisenheimer | # of visits:  23
+Rank 4 : E. S. Orwoll | # of visits:  24
+Rank 5 : U. Leonhardt | # of visits:  24
+Rank 6 : Morris E. Franklin | # of visits:  24
+Rank 7 : Daniel Rosenthal | # of visits:  21
+Rank 8 : Joseph F. Waeckerle | # of visits:  20
+Rank 9 : G Booch | # of visits:  16
+Rank 10 : Anthony R. Gennaro | # of visits:  17
+
+ Trial number  3 / 5
+# authors explored:  12867  | # total authors:  13671
+# of deadends:  36934  | # of p_accept < 1:  477
+Rank 1 : Jakob Meisenheimer | # of visits:  32
+Rank 2 : Pace R | # of visits:  30
+Rank 3 : Andrew Strominger | # of visits:  30
+Rank 4 : Dieter Seebach | # of visits:  29
+Rank 5 : Michael J. Fischer | # of visits:  25
+Rank 6 : Smith R | # of visits:  28
+Rank 7 : Kolyn D | # of visits:  24
+Rank 8 : Morris E. Franklin | # of visits:  23
+Rank 9 : Raul Ramos | # of visits:  23
+Rank 10 : D. Wallach | # of visits:  21
+
+ Trial number  4 / 5
+# authors explored:  12860  | # total authors:  13671
+# of deadends:  37091  | # of p_accept < 1:  393
+Rank 1 : Jakob Meisenheimer | # of visits:  28
+Rank 2 : Dieter Seebach | # of visits:  30
+Rank 3 : Peter Coad | # of visits:  24
+Rank 4 : A URTTI | # of visits:  23
+Rank 5 : U. Leonhardt | # of visits:  22
+Rank 6 : R. K. Winkelmann | # of visits:  19
+Rank 7 : Michael J. Fischer | # of visits:  17
+Rank 8 : Pace R | # of visits:  19
+Rank 9 : E. S. Orwoll | # of visits:  26
+Rank 10 : F.R.K Chung | # of visits:  19
+
+ Trial number  5 / 5
+# authors explored:  12858  | # total authors:  13671
+# of deadends:  37076  | # of p_accept < 1:  370
+Rank 1 : Jakob Meisenheimer | # of visits:  32
+Rank 2 : Andrew Strominger | # of visits:  29
+Rank 3 : Michael J. Fischer | # of visits:  21
+Rank 4 : Dieter Seebach | # of visits:  21
+Rank 5 : F.R.K Chung | # of visits:  18
+Rank 6 : Daniel Rosenthal | # of visits:  15
+Rank 7 : U. Leonhardt | # of visits:  18
+Rank 8 : William Schuessler | # of visits:  16
+Rank 9 : Richard I. Ecker | # of visits:  20
+Rank 10 : E. S. Orwoll | # of visits:  14

@@ -1,0 +1,68 @@
+# papers:  25650
+# authors:  17869
+Nature 880
+The Lancet 572
+British Medical Journal 548
+science 295
+Science (New York, N.Y.) 166
+Psyccritiques 163
+Scientific American 143
+American Journal of The Medical Sciences 115
+Lancet (London, England) 102
+Phytochemistry 102
+
+ Trial number  1 / 5
+# authors explored:  15897  | # total authors:  17869
+# of deadends:  38220  | # of p_accept < 1:  319
+Rank 1 : R. Axelrod | # of visits:  53
+Rank 2 : H. Young | # of visits:  20
+Rank 3 : Robert Endre Tarjan | # of visits:  15
+Rank 4 : Paul G. Nagy | # of visits:  16
+Rank 5 : Vincent S.E. Falger | # of visits:  17
+Rank 6 : Michael Stonebraker | # of visits:  14
+Rank 7 : J.D. Connolly | # of visits:  14
+Rank 8 : K. Harischandra Prasad | # of visits:  11
+Rank 9 : Lawrence A. Rowe | # of visits:  11
+Rank 10 : Kevin Matulef | # of visits:  8
+
+ Trial number  2 / 5
+# authors explored:  15907  | # total authors:  17869
+# of deadends:  38169  | # of p_accept < 1:  328
+Rank 1 : R. Axelrod | # of visits:  36
+Rank 2 : Robert Endre Tarjan | # of visits:  18
+Rank 3 : J.D. Connolly | # of visits:  18
+Rank 4 : V. Anjaneyulu | # of visits:  14
+Rank 5 : Marvin H. Solomon | # of visits:  13
+Rank 6 : Vincent S.E. Falger | # of visits:  14
+Rank 7 : H. Young | # of visits:  12
+Rank 8 : K. Ravi | # of visits:  11
+Rank 9 : Emiliano Lorini | # of visits:  12
+Rank 10 : Paul G. Nagy | # of visits:  10
+
+ Trial number  3 / 5
+# authors explored:  15886  | # total authors:  17869
+# of deadends:  38122  | # of p_accept < 1:  346
+Rank 1 : R. Axelrod | # of visits:  44
+Rank 2 : Robert Endre Tarjan | # of visits:  23
+Rank 3 : Vincent S.E. Falger | # of visits:  21
+Rank 4 : R.L Graham | # of visits:  15
+Rank 5 : Michael Stonebraker | # of visits:  17
+Rank 6 : J.D. Connolly | # of visits:  12
+Rank 7 : Rocco De Nicola | # of visits:  14
+Rank 8 : IVAN POLUNIN | # of visits:  11
+Rank 9 : K. Harischandra Prasad | # of visits:  12
+Rank 10 : Thomas R. Nelson | # of visits:  13
+
+ Trial number  4 / 5
+# authors explored:  15920  | # total authors:  17869
+# of deadends:  38121  | # of p_accept < 1:  311
+Rank 1 : R. Axelrod | # of visits:  46
+Rank 2 : Robert Endre Tarjan | # of visits:  28
+Rank 3 : Vincent S.E. Falger | # of visits:  20
+Rank 4 : H. Young | # of visits:  23
+Rank 5 : IVAN POLUNIN | # of visits:  17
+Rank 6 : Andreas Herzig | # of visits:  18
+Rank 7 : K. Harischandra Prasad | # of visits:  17
+Rank 8 : J.D. Connolly | # of visits:  12
+Rank 9 : Paula E. Stephan | # of visits:  14
+Rank 10 : Rocco A. Servedio | # of visits:  13
